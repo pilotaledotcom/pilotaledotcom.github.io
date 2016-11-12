@@ -30,3 +30,16 @@ section.right-code > p > img {
   -moz-box-shadow: 10px 10px 23px -5px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 23px -5px rgba(0,0,0,0.75);
 }
+
+#sidebar li.progress {
+  font-size: small;
+  line-height: 100%;
+}
+
+#sidebar span.progress-done-true::before {
+  content: "✓";
+}
+
+#sidebar span.progress-done-false::before {
+  content: "◌";
+}

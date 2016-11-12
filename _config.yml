@@ -9,13 +9,32 @@ description: >
 url: https://pilotale.com
 google_analytics_key:
 
+progress:
+  - name: Theory
+    done: true
+  - name: Medical
+    done: true
+  - name: RT Exam
+    done: true
+  - name: 9 Theory exams
+    done: true
+  - name: English (LPE) Exam
+    done: true
+  - name: ~24 of 45 hrs
+    done: false
+  - name: Practical exam
+    done: false
+
 collections:
   story:
     title: My aviation story
     position: 1
+  trips:
+    title: Trips
+    position: 2
   extras:
     title: Extras
-    position: 2
+    position: 3
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag

@@ -1,6 +1,12 @@
 ---
 title: The first solo!!!
-position: 6
+position: 5
+right_code: |
+  ![alt text](images/solo_landing_1.png "First solo landing!")
+  ![alt text](images/solo_landing_2.png "First solo landing!")
+  ![alt text](images/solo_landing_3.png "First solo landing!")
+
+  My very first landing ;)
 ---
 
 Once I was back from the UK, my confidence was even more boosted, which made me feel even more capable of flying that airplane down to the runway. There were a few things to fine-tune, for example the lack of right rudder on takeoff, causing a drift towards left, and my flare: sometimes I was flaring too much, sometimes not enonugh. But eventually my instructor started to be more and more quiet, which meant I was getting better and better.

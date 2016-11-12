@@ -210,31 +210,10 @@ h3 .endpoint {
 	font-size: 19px;
 }
 
-.endpoint.put {
-	color: #7E57C2;
-	&:after {
-		content: "PUT";
-	}
-}
-
-.endpoint.delete {
-	color: #FF7043;
-	&:after {
-		content: "DELETE";
-	}
-}
-
-.endpoint.get {
-	color: #66BB6A;
-	&:after {
-		content: "GET";
-	}
-}
-
-.endpoint.post {
+.endpoint.new {
 	color: #42A5F5;
 	&:after {
-		content: "POST";
+		content: "NEW";
 	}
 }
 

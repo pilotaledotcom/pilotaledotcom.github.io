@@ -1,4 +1,17 @@
 <div id="sidebar" class="sidebar">
+	<section>
+		<h6>Progress</h6>
+		<ul>
+			{% for item in site.progress %}
+				<li class="progress">
+					<span class="progress-done-{{ item.done }}">
+						{{ item.name }}
+					</a>
+				</li>
+			{% endfor %}
+		</ul>
+	</section>
+
 	{% assign sorted_collections = site.collections | sort: "position" %}
 	{% for collection in sorted_collections %}
 		{% if collection.label != "posts" %}

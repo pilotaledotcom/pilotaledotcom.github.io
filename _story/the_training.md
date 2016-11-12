@@ -1,6 +1,18 @@
 ---
-title: The practical training
+title: The training
 position: 3
+right_code: |
+  ![alt text](images/familiarize.png "Familiarize with the a/c")
+
+  Familiarization with climbs, turns and descents
+
+  ![alt text](images/stall.png "Stall")
+
+  A second before the stall. Guess what's about to happen ;)
+
+  ![alt text](images/landing.png "Landing")
+
+  A touch-and-go, during my circuit training
 ---
 
 13/03/2016. The first trial lesson was about familiarizing with the a/c: climbs, descents, turns and straight and level flight. It goes without saying that it was awesome!
