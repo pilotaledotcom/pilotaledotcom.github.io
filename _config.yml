@@ -1,0 +1,41 @@
+# ----
+# Site
+
+title: Pilotale.com
+description: >
+  My aviaton story.
+  I have always had a passion for motors and driving any type of vehicle.
+  But it was only when I reached 29 yeard old that I actually started taking flight lessons.
+url: https://pilotale.com
+google_analytics_key:
+
+collections:
+  story:
+    title: My aviation story
+    position: 1
+  extras:
+    title: Extras
+    position: 2
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - readme.md
+  - LICENCE
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+# -----
+# Build
+
+
+# -----------
+# CloudCannon
+
+version: 3.0.3
