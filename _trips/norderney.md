@@ -17,3 +17,5 @@ The experience of flying while continuously navigate and update the flight sched
 The weather that day was not that great, but this didn't stop us, fortunately.
 
 This, by the way, was also the very first time I recorded a flight with my new GoPro, bought for the occasion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RULvdNwGtt4" frameborder="0" allowfullscreen></iframe>
