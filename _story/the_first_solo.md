@@ -1,6 +1,6 @@
 ---
 title: The first solo!!!
-position: 5
+position: 6
 right_code: |
   ![alt text](images/solo_landing_1.png "First solo landing!")
   ![alt text](images/solo_landing_2.png "First solo landing!")
