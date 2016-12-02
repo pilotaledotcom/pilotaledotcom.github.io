@@ -1,6 +1,6 @@
 ---
 title: The LPE exam
-position: 6
+position: 7
 type: new
 right_code: |
   ![alt text](images/before_LPE.png "Me, before taking the LPE exam")
