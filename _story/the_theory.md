@@ -1,6 +1,6 @@
 ---
 title: The theory
-position: 5
+position: 6
 right_code: |
   ![alt text](images/hotel_room_theory.png "First solo landing!")
 
