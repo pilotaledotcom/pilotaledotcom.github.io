@@ -2,7 +2,7 @@
 title: The theory
 position: 5
 right_code: |
-  ![alt text](images/hotel_room_theory.png "First solo landing!")
+  ![alt text](images/hotel_room_theory.png "Hotel room desk")
 
   The desk in my hotel room, after passing all 9 exams
 ---
