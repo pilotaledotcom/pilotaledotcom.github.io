@@ -20,8 +20,8 @@ progress:
     done: true
   - name: English (LPE) Exam
     done: true
-  - name: ~40 of 45 hrs
-    done: false
+  - name: > 45 hrs
+    done: true
   - name: Practical exam
     done: false
 
